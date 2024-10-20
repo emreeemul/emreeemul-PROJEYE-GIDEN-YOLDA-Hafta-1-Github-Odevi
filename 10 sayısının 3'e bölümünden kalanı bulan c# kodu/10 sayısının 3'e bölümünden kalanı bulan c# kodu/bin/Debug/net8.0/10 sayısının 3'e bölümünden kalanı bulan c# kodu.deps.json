@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "10 sayısının 3'e bölümünden kalanı bulan c# kodu/1.0.0": {
+        "runtime": {
+          "10 sayısının 3'e bölümünden kalanı bulan c# kodu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10 sayısının 3'e bölümünden kalanı bulan c# kodu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\bin\Debug\net8.0\10 sayısının 3'e bölümünden kalanı bulan c# kodu.exe
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\bin\Debug\net8.0\10 sayısının 3'e bölümünden kalanı bulan c# kodu.deps.json
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\bin\Debug\net8.0\10 sayısının 3'e bölümünden kalanı bulan c# kodu.runtimeconfig.json
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\bin\Debug\net8.0\10 sayısının 3'e bölümünden kalanı bulan c# kodu.dll
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\bin\Debug\net8.0\10 sayısının 3'e bölümünden kalanı bulan c# kodu.pdb
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\obj\Debug\net8.0\10 sayısının 3'e bölümünden kalanı bulan c# kodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\obj\Debug\net8.0\10 sayısının 3'e bölümünden kalanı bulan c# kodu.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\obj\Debug\net8.0\10 sayısının 3'e bölümünden kalanı bulan c# kodu.AssemblyInfo.cs
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\obj\Debug\net8.0\10 sayısının 3'e bölümünden kalanı bulan c# kodu.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\obj\Debug\net8.0\10 sayısının 3'e bölümünden kalanı bulan c# kodu.dll
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\obj\Debug\net8.0\refint\10 sayısının 3'e bölümünden kalanı bulan c# kodu.dll
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\obj\Debug\net8.0\10 sayısının 3'e bölümünden kalanı bulan c# kodu.pdb
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\obj\Debug\net8.0\10 sayısının 3'e bölümünden kalanı bulan c# kodu.genruntimeconfig.cache
+C:\Users\Emre\source\repos\10 sayısının 3'e bölümünden kalanı bulan c# kodu\10 sayısının 3'e bölümünden kalanı bulan c# kodu\obj\Debug\net8.0\ref\10 sayısının 3'e bölümünden kalanı bulan c# kodu.dll

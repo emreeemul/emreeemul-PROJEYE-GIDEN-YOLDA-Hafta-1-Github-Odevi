@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = kenarları_girilen_dikdörtgenler_prizmasının_hacminin_c__kodu
+build_property.ProjectDir = C:\Users\Emre\source\repos\kenarları girilen dikdörtgenler prizmasının hacminin c# kodu\kenarları girilen dikdörtgenler prizmasının hacminin c# kodu\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

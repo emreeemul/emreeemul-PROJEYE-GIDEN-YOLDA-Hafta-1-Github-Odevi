@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "klavyeden girilen 4 sayının toplamını ve çarpımını bulan c# kodu/1.0.0": {
+        "runtime": {
+          "klavyeden girilen 4 sayının toplamını ve çarpımını bulan c# kodu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "klavyeden girilen 4 sayının toplamını ve çarpımını bulan c# kodu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

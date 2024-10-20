@@ -1,0 +1,14 @@
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\bin\Debug\net8.0\iki sayının farkını veren c# kodu.exe
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\bin\Debug\net8.0\iki sayının farkını veren c# kodu.deps.json
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\bin\Debug\net8.0\iki sayının farkını veren c# kodu.runtimeconfig.json
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\bin\Debug\net8.0\iki sayının farkını veren c# kodu.dll
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\bin\Debug\net8.0\iki sayının farkını veren c# kodu.pdb
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\obj\Debug\net8.0\iki sayının farkını veren c# kodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\obj\Debug\net8.0\iki sayının farkını veren c# kodu.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\obj\Debug\net8.0\iki sayının farkını veren c# kodu.AssemblyInfo.cs
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\obj\Debug\net8.0\iki sayının farkını veren c# kodu.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\obj\Debug\net8.0\iki sayının farkını veren c# kodu.dll
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\obj\Debug\net8.0\refint\iki sayının farkını veren c# kodu.dll
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\obj\Debug\net8.0\iki sayının farkını veren c# kodu.pdb
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\obj\Debug\net8.0\iki sayının farkını veren c# kodu.genruntimeconfig.cache
+C:\Users\Emre\source\repos\iki sayının farkını veren c# kodu\iki sayının farkını veren c# kodu\obj\Debug\net8.0\ref\iki sayının farkını veren c# kodu.dll
